@@ -47,6 +47,17 @@ a:hover {
     color: #000;
 }
 
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
 /*HEADER STYLES*/
 header {
     text-align: center;
@@ -123,6 +134,7 @@ p + h3 {
 footer {
     margin: 20px 0px;
     text-align: center;
+    line-height: 2em;
 }
 
 .fa-circle {
