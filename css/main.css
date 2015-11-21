@@ -14,7 +14,10 @@
 #container h1,
 #container h2 {
     font-family: 'Josefin Sans', sans-serif;
-    font-weight: 600;
+    font-weight: 400;
+}
+#container h2 {
+    font-size: 1.5em;
 }
 
 h3,
@@ -50,6 +53,9 @@ header p span {
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 400;
     font-size: 1.5em;
-    color: #1bc6b4;
+    color: #000;
 }
+
+/*ACCORDIAN CONTENT STYLES*/
+
 
