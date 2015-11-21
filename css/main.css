@@ -94,6 +94,19 @@ header p span {
     width: 100%;
 }
 
+@media all and (min-width: 550px) {
+    .inner-content p {
+        width: 50%;
+        float: left;
+    }
+    #portrait {
+        float: right;
+    }
+    .inner-content {
+        overflow: auto;
+    }
+}
+
 p + h3 {
     margin-top: 1em;
 }
