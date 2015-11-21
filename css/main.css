@@ -60,3 +60,7 @@ header p span {
 .accordion figure {
     text-align: center;
 }
+
+p + h3 {
+    margin-top: 1em;
+}
