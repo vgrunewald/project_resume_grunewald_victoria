@@ -17,7 +17,7 @@
 {
 	color:#fff;
 }
-.accordion-item-active .accordion-header h1
+.accordion-item-active .accordion-header h2
 {
 	color:#fff;
 }
@@ -31,7 +31,7 @@
 	min-height:20px;
 	transition:.25s;
 }
-.accordion-header h1
+.accordion-header h2
 {
 	float:left;
 	font-size:18px;
