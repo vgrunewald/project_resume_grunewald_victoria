@@ -61,6 +61,15 @@ header p span {
     text-align: center;
 }
 
+#portrait {
+    max-width: 290px;
+    width: 100%;
+}
+
 p + h3 {
     margin-top: 1em;
+}
+
+.accordion ul {
+    list-style-type: none;
 }
