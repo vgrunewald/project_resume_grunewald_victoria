@@ -35,3 +35,10 @@ header {
     max-width: 400px;
     width: 100%;
 }
+
+header p span {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-size: 1.5em;
+    color: #1bc6b4;
+}
