@@ -1,9 +1,9 @@
 $(document).ready(function() {
 
     $(".rotate").textrotator({
-        animation: "flip",
+        animation: "fade",
         separator: ",",
-        speed: 2000
+        speed: 1500
     });
 
     $(".accordion").accordion({
