@@ -4,21 +4,11 @@
     border: 0;
 }
 
+/*WEBSITE WIDE STYLES */
 #container {
     max-width: 700px;
     margin: auto;
     padding: 10px;
-}
-
-header {
-    text-align: center;
-    margin-bottom: 10px;
-}
-
-#logo {
-    margin-bottom: 10px;
-    max-width: 400px;
-    width: 100%;
 }
 
 #container h1,
@@ -32,3 +22,14 @@ p {
     font-weight: 300;
 }
 
+/*HEADER STYLES*/
+header {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#logo {
+    margin-bottom: 10px;
+    max-width: 400px;
+    width: 100%;
+}
