@@ -37,6 +37,15 @@ ul {
     font-weight: 300;
 }
 
+a, a:visited {
+    color: #17a092;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #000;
+}
+
 /*HEADER STYLES*/
 header {
     text-align: center;
