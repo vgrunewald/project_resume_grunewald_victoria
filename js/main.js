@@ -6,6 +6,9 @@ $(document).ready(function() {
         speed: 2000
     });
 
-    $(".accordion").accordion();
+    $(".accordion").accordion({
+        firstChildExpand: true,
+        multiExpand: true
+    });
 
 });
