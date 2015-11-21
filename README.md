@@ -3,7 +3,7 @@
 # [Resume Project on Web](http://www.vickigrunewald.com/project_resume)
 
 # jQuery Plugins
-* [Simple Text Rotator](http://www.vickigrunewald.com/project_resume/): Animates/rotates text via a list of words you wish to scroll through. You can find this plugin used in my website header - I'm using it to rotate through my interests: Web Design, Custom Graphics and Original Branding. Using this plugin, these words fade in and out, one after the other. 
+* [Simple Text Rotator](https://github.com/peachananr/simple-text-rotator): Animates/rotates text via a list of words you wish to scroll through. You can find this plugin used in my website header - I'm using it to rotate through my interests: Web Design, Custom Graphics and Original Branding. Using this plugin, these words fade in and out, one after the other. 
 * [Woco Accordion](https://github.com/chooowai/woco-accordion): This plugin creates a fluid accordion layout with subtle sliding animation. The accordion makes up the body of my website, with each "drawer" holding a section of my resume content. 
 
 # Resources
