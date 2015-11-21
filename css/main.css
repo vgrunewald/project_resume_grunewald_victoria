@@ -16,6 +16,7 @@
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 400;
 }
+
 #container h2 {
     font-size: 1.5em;
 }
@@ -63,6 +64,24 @@ header p span {
     font-weight: 400;
     font-size: 1.5em;
     color: #000;
+}
+
+@media all and (min-width: 700px) {
+    header {
+        text-align: left;
+    }
+    #logo {
+        float: left;
+    }
+    header p {
+        float: right;
+        margin-top: 40px;
+    }
+    header::after {
+        clear: both;
+        display: block;
+        content: "";
+    }
 }
 
 /*ACCORDIAN CONTENT STYLES*/
