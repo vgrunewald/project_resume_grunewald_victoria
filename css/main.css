@@ -119,4 +119,14 @@ p + h3 {
 .accordion ul {
     list-style-type: none;
 }
+/*FOOTER STYLES*/
+.fa-circle {
+    color: #1bc6b4;
+}
+.social-button:hover .fa-circle:before {
+    color: #3e4449;
+}
+.fa-facebook, .fa-twitter {
+    margin-top: 2px;
+}
 
