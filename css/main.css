@@ -105,6 +105,11 @@ header p span {
     .inner-content {
         overflow: auto;
     }
+    ul {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+    }
 }
 
 p + h3 {
@@ -114,3 +119,4 @@ p + h3 {
 .accordion ul {
     list-style-type: none;
 }
+
