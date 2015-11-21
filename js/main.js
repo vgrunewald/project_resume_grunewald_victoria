@@ -6,4 +6,6 @@ $(document).ready(function() {
         speed: 2000
     });
 
+    $(".accordion").accordion();
+
 });
